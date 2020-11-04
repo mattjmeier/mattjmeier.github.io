@@ -23,4 +23,4 @@
 
 Yes, it does.
 
-Here is a link: [LINK](/en/index.md)
+Here is a link: [LINK](/en/index.html)
