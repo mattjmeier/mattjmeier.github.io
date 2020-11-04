@@ -255,3 +255,5 @@ lang: en-CA # Set the site language
 languages: ["en", "fr"]
 theme-name: GCWeb
 title: "gcweb-jekyll" # Site name or title, also used in jekyll-seo-tag
+
+theme: jekyll-theme-cayman
