@@ -23,4 +23,4 @@
 
 Yes, it does.
 
-Here is a link: [LINK](/en/index.html)
+Here is a link: [LINK](_pages/en/index.html)
