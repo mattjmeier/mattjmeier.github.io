@@ -20,3 +20,7 @@
 # This is a test
 
 ## Does it work?
+
+Yes, it does.
+
+Here is a link: [LINK](/en/index.md)
